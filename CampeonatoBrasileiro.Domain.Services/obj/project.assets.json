@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "CampeonatoBrasileiro.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CampeonatoBrasileiro.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CampeonatoBrasileiro.Domain.dll": {}
+        }
+      },
+      "CampeonatoBrasileiro.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CampeonatoBrasileiro.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CampeonatoBrasileiro.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CampeonatoBrasileiro.Domain.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CampeonatoBrasileiro.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CampeonatoBrasileiro.Domain/CampeonatoBrasileiro.Domain.csproj",
+      "msbuildProject": "../CampeonatoBrasileiro.Domain/CampeonatoBrasileiro.Domain.csproj"
+    },
+    "CampeonatoBrasileiro.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../CampeonatoBrasileiro.Domain.Core/CampeonatoBrasileiro.Domain.Core.csproj",
+      "msbuildProject": "../CampeonatoBrasileiro.Domain.Core/CampeonatoBrasileiro.Domain.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "CampeonatoBrasileiro.Domain.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Pichau\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Pichau\\source\\repos\\CampeonatoBrasileiro\\CampeonatoBrasileiro.Domain.Core\\CampeonatoBrasileiro.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\Pichau\\source\\repos\\CampeonatoBrasileiro\\CampeonatoBrasileiro.Domain.Core\\CampeonatoBrasileiro.Domain.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,12 @@
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\bin\Debug\net6.0\CampeonatoBrasileiro.Domain.deps.json
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\bin\Debug\net6.0\CampeonatoBrasileiro.Domain.dll
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\bin\Debug\net6.0\CampeonatoBrasileiro.Domain.pdb
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.dll
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\refint\CampeonatoBrasileiro.Domain.dll
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.pdb
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain\obj\Debug\net6.0\ref\CampeonatoBrasileiro.Domain.dll

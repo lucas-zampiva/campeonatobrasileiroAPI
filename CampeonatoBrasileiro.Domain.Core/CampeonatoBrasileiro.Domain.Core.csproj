@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CampeonatoBrasileiro.Domain\CampeonatoBrasileiro.Domain.csproj" />
   </ItemGroup>
 

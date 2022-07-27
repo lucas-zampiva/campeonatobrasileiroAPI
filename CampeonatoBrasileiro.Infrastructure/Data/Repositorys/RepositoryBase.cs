@@ -25,7 +25,7 @@ namespace CampeonatoBrasileiro.Infrastructure.Data.Repositorys
             }
         }
 
-        public IEnumerable<TEntity> GetAll()
+        public virtual IEnumerable<TEntity> GetAll()
         {
             return mySqlContext.Set<TEntity>().ToList();
         }
@@ -35,12 +35,20 @@ namespace CampeonatoBrasileiro.Infrastructure.Data.Repositorys
             return mySqlContext.Set<TEntity>().Find(id);
         }
 
-        public void Remove(TEntity obj)
+        public void Remove(int id)
         {
             try
             {
-                mySqlContext.Set<TEntity>().Remove(obj);
-                mySqlContext.SaveChanges();
+                var obj = mySqlContext.Set<TEntity>().Find(id);
+                if (obj != null)
+                {
+                    mySqlContext.Set<TEntity>().Remove(obj);
+                    mySqlContext.SaveChanges();
+                }
+                else
+                {
+                    throw new Exception("Entidade não encontrada");
+                }
             }
             catch (Exception ex)
             {

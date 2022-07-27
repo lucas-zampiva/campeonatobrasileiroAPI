@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CampeonatoBrasileiro.Domain.Core/1.0.0": {
+        "dependencies": {
+          "CampeonatoBrasileiro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CampeonatoBrasileiro.Domain.Core.dll": {}
+        }
+      },
+      "CampeonatoBrasileiro.Domain/1.0.0": {
+        "runtime": {
+          "CampeonatoBrasileiro.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CampeonatoBrasileiro.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CampeonatoBrasileiro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

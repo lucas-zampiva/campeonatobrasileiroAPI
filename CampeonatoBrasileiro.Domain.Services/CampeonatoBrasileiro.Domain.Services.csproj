@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CampeonatoBrasileiro.Domain.Core\CampeonatoBrasileiro.Domain.Core.csproj" />
+  </ItemGroup>
+
 </Project>

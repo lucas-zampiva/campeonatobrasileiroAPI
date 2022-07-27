@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\bin\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.deps.json
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\bin\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.dll
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\bin\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.pdb
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\bin\Debug\net6.0\CampeonatoBrasileiro.Domain.dll
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\bin\Debug\net6.0\CampeonatoBrasileiro.Domain.pdb
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.csproj.CopyComplete
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.dll
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\refint\CampeonatoBrasileiro.Domain.Core.dll
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\CampeonatoBrasileiro.Domain.Core.pdb
+C:\Users\Pichau\source\repos\CampeonatoBrasileiro\CampeonatoBrasileiro.Domain.Core\obj\Debug\net6.0\ref\CampeonatoBrasileiro.Domain.Core.dll

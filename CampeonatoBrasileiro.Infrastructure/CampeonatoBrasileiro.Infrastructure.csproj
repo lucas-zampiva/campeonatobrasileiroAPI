@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -7,15 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CrossCutting\" />
+    <PackageReference Include="Autofac" Version="6.4.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.1" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.4.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\CampeonatoBrasileiro.Application\CampeonatoBrasileiro.Application.csproj" />
     <ProjectReference Include="..\CampeonatoBrasileiro.Domain.Core\CampeonatoBrasileiro.Domain.Core.csproj" />
+    <ProjectReference Include="..\CampeonatoBrasileiro.Domain.Services\CampeonatoBrasileiro.Domain.Services.csproj" />
     <ProjectReference Include="..\CampeonatoBrasileiro.Domain\CampeonatoBrasileiro.Domain.csproj" />
   </ItemGroup>
 
